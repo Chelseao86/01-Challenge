@@ -2,4 +2,4 @@
 
 Challenge for module one. Styled existing code with semantic HTML elements, html logical structure, image alt attributes, heading, title, and other cleanup. 
 
-![challenge-screenshot](/./assets/images/01-challeng.png?raw=true "01-Challenge Screenshot")
+![challenge-screenshot](/./assets/images/01-challeng.jpeg "01-Challenge Screenshot")
