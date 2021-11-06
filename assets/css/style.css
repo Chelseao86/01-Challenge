@@ -70,11 +70,14 @@ a {
 
 
 /* CONTENT STYLES */
-
-.content {
-    display: inline-block;
+main {
     width: 75%;
     margin: 20px;
+    display: inline-block;
+}
+
+.content {
+   margin-bottom: 20px;
     padding: 20px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -93,8 +96,7 @@ a {
 
 /* BENEFIT STYLES */
 .benefits {
-    vertical-align:top;
-    display: inline-block;
+   margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
